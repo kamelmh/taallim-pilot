@@ -1,0 +1,4 @@
+group,post_M,delayed_M,change,t,p,d
+Experimental,70.34,65.21,-5.13,-9.26,0.0,0.468
+Control,48.52,41.44,-7.08,-11.068,0.0,0.519
+Exp vs Control @ delayed,,,23.77,10.518,0.0,1.92

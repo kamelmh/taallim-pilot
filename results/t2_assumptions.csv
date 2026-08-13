@@ -1,0 +1,5 @@
+check,stat,p,met
+Normality (g_post) – Experimental,0.983,0.564,True
+Normality (g_post) – Control,0.966,0.094,True
+Homogeneity of variance (Levene),5.58,0.02,False
+Homogeneity of regression slopes (group × pretest),0.704,0.403,True

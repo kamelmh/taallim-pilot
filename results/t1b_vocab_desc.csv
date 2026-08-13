@@ -1,0 +1,7 @@
+measure,group,n,M,SD
+pretest,Experimental,60,41.311,9.191
+pretest,Control,60,43.025,9.853
+posttest,Experimental,60,61.272,10.035
+posttest,Control,60,47.739,9.966
+delayed,Experimental,60,57.361,10.691
+delayed,Control,60,40.533,10.505

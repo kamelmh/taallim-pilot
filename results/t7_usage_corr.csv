@@ -1,0 +1,6 @@
+predictor,r,p,n
+cards_reviewed,0.372,0.003,60
+review_regularity,0.433,0.001,60
+mcq_accuracy,0.131,0.318,60
+maps_completed,0.413,0.001,60
+time_on_task_min,0.21,0.107,60

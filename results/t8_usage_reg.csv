@@ -1,0 +1,7 @@
+predictor,beta,se,T,r2,adj_r2
+Intercept,0.0,0.117,0.0,0.245,0.175
+cards_reviewed,0.073,0.173,0.425,0.245,0.175
+review_regularity,0.363,0.223,1.626,0.245,0.175
+mcq_accuracy,-0.053,0.128,-0.412,0.245,0.175
+maps_completed,0.274,0.165,1.655,0.245,0.175
+time_on_task_min,-0.217,0.169,-1.283,0.245,0.175
